@@ -1,4 +1,4 @@
 <html>
-<head>testting</head>
+<head>testing</head>
 Welcome to jenkin test
 </html>
